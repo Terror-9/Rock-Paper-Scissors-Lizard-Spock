@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-Lizard-Spock-for-Codedex-
+# Rock-Paper-Scissors-Lizard-Spock-
 PYTHON Checkpoint Project
